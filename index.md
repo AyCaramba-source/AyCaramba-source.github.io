@@ -4,7 +4,7 @@ This is my home page! My name is David Li and I am a student at [Cal State Fulle
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/AyCaramba-source.
+My GitHub page is [AyCaramba-source](http://github.com/AyCaramba-source).
 
 ### CPSC 120
 
